@@ -6,3 +6,4 @@ seaborn
 sklearn
 joblib
 matplotlib
+setuptools
