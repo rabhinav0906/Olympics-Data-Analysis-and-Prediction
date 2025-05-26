@@ -26,7 +26,8 @@ This project analyzes historical Olympics data to uncover meaningful insights an
 - scikit-learn (Random Forest Regressor)  
 - joblib  
 
-![Streamlit App Screenshot](images/![image](https://github.com/user-attachments/assets/f6060290-5690-4d32-b605-034abcbd3ed5)
-)
+Predicted Graph Screenshot:
+![image](https://github.com/user-attachments/assets/94af2404-a44b-4708-a0e5-9d2e7a5a90bd)
+
 
 
